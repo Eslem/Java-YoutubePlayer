@@ -1,0 +1,11 @@
+C:\Users\eslem\Documents\Workspace\VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\eslem\Documents\Workspace\VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\eslem\Documents\Workspace\VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\eslem\Documents\Workspace\VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\eslem\Documents\Workspace\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\eslem\Documents\Workspace\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\eslem\Documents\Workspace\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\eslem\Documents\Workspace\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\eslem\Documents\Workspace\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\eslem\Documents\Workspace\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.YoutubeList.resources
+C:\Users\eslem\Documents\Workspace\VB\WindowsApplication1\WindowsApplication1\bin\Debug\Youtube Player.exe.config
