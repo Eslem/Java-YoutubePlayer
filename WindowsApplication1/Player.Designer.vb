@@ -23,29 +23,58 @@ Partial Class YoutubeList
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.WebBrowser1 = New System.Windows.Forms.WebBrowser()
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.Button2 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'WebBrowser1
         '
-        Me.WebBrowser1.AllowNavigation = False
         Me.WebBrowser1.AllowWebBrowserDrop = False
+        Me.WebBrowser1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.WebBrowser1.Location = New System.Drawing.Point(0, 0)
         Me.WebBrowser1.Margin = New System.Windows.Forms.Padding(0)
         Me.WebBrowser1.MinimumSize = New System.Drawing.Size(20, 20)
         Me.WebBrowser1.Name = "WebBrowser1"
         Me.WebBrowser1.ScrollBarsEnabled = False
-        Me.WebBrowser1.Size = New System.Drawing.Size(560, 315)
+        Me.WebBrowser1.Size = New System.Drawing.Size(559, 315)
         Me.WebBrowser1.TabIndex = 0
-        Me.WebBrowser1.Url = New System.Uri("https://www.youtube.com/embed/videoseries?list=PL8FABEAD8F2BDF0E7", System.UriKind.Absolute)
+        Me.WebBrowser1.Url = New System.Uri("", System.UriKind.Relative)
+        '
+        'Button1
+        '
+        Me.Button1.BackColor = System.Drawing.Color.Transparent
+        Me.Button1.FlatAppearance.BorderColor = System.Drawing.Color.Black
+        Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.Button1.ForeColor = System.Drawing.Color.Transparent
+        Me.Button1.Location = New System.Drawing.Point(504, 43)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(43, 23)
+        Me.Button1.TabIndex = 1
+        Me.Button1.Text = "Metal"
+        Me.Button1.UseVisualStyleBackColor = False
+        '
+        'Button2
+        '
+        Me.Button2.BackColor = System.Drawing.Color.Transparent
+        Me.Button2.FlatAppearance.BorderColor = System.Drawing.Color.Black
+        Me.Button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.Button2.ForeColor = System.Drawing.Color.Transparent
+        Me.Button2.Location = New System.Drawing.Point(492, 72)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(55, 23)
+        Me.Button2.TabIndex = 2
+        Me.Button2.Text = "Clasical"
+        Me.Button2.UseVisualStyleBackColor = False
         '
         'YoutubeList
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ControlDarkDark
-        Me.ClientSize = New System.Drawing.Size(559, 313)
+        Me.ClientSize = New System.Drawing.Size(559, 315)
+        Me.Controls.Add(Me.Button2)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.WebBrowser1)
-        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Name = "YoutubeList"
         Me.Opacity = 0.75R
         Me.ShowIcon = False
@@ -55,5 +84,7 @@ Partial Class YoutubeList
 
     End Sub
     Friend WithEvents WebBrowser1 As System.Windows.Forms.WebBrowser
+    Friend WithEvents Button1 As System.Windows.Forms.Button
+    Friend WithEvents Button2 As System.Windows.Forms.Button
 
 End Class
