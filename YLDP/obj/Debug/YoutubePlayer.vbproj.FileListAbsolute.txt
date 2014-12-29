@@ -8,3 +8,13 @@ C:\Users\eslem\Documents\Workspace\VB\WindowsApplication1\WindowsApplication1\ob
 C:\Users\eslem\Documents\Workspace\VB\WindowsApplication1\WindowsApplication1\obj\Debug\Youtube Player.exe
 C:\Users\eslem\Documents\Workspace\VB\WindowsApplication1\WindowsApplication1\obj\Debug\Youtube Player.xml
 C:\Users\eslem\Documents\Workspace\VB\WindowsApplication1\WindowsApplication1\obj\Debug\Youtube Player.pdb
+C:\Users\Slem-Destop\Documents\Workspace\VisualStudio\YLDP\bin\Debug\Youtube Player.exe.config
+C:\Users\Slem-Destop\Documents\Workspace\VisualStudio\YLDP\obj\Debug\Youtube Player.exe
+C:\Users\Slem-Destop\Documents\Workspace\VisualStudio\YLDP\obj\Debug\Youtube Player.xml
+C:\Users\Slem-Destop\Documents\Workspace\VisualStudio\YLDP\obj\Debug\Youtube Player.pdb
+C:\Users\Slem-Destop\Documents\Workspace\VisualStudio\YLDP\bin\Debug\Youtube Player.exe
+C:\Users\Slem-Destop\Documents\Workspace\VisualStudio\YLDP\bin\Debug\Youtube Player.pdb
+C:\Users\Slem-Destop\Documents\Workspace\VisualStudio\YLDP\bin\Debug\Youtube Player.xml
+C:\Users\Slem-Destop\Documents\Workspace\VisualStudio\YLDP\obj\Debug\YoutubePlayer.YoutubeList.resources
+C:\Users\Slem-Destop\Documents\Workspace\VisualStudio\YLDP\obj\Debug\YoutubePlayer.Resources.resources
+C:\Users\Slem-Destop\Documents\Workspace\VisualStudio\YLDP\obj\Debug\YoutubePlayer.vbproj.GenerateResource.Cache
